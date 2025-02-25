@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.center.mapper.MemberMapper">
+	<!-- 
+		인터페이스에서 해당 하는 mapper로 넘어올 수 있는 조건
+		namespace가 인터페이스 이름과 동일하던가
+		xml파일 이름과 인터페이스 이름이 동일하면 자동으로 찾는다.
+	 -->
+	 
+	<!-- 회원가입  -->
+	<insert id="memberInsert" parameterType="com.center.entity.Member">
+    INSERT INTO member (mb_id, mb_pw, mb_name, mb_level, joined_at)
+    VALUES (#{mb_id}, #{mb_pw}, #{mb_name}, 1, NOW())
+	</insert>
+	
+	<!-- 로그인  -->
+	<select id="memberLogin" parameterType="map" resultType="com.center.entity.Member">
+		select * from member 
+		where mb_id = #{mb_id} and mb_pw = #{mb_pw}
+	</select>
+
+	 
+	 
+	 
+	 
+	 
+</mapper>

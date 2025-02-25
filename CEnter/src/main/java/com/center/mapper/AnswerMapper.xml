@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.center.mapper.AnswerMapper">
+
+    <!-- AI 답변 저장 -->
+    <insert id="insertAnswer" parameterType="com.center.entity.Answer">
+        INSERT INTO answer (mb_id, ai_idx, qes_idx, created_at, ans_yn, ans_problem)
+        VALUES (#{mb_id}, #{ai_idx}, #{qes_idx}, NOW(), #{ans_yn}, #{ans_problem})
+    </insert>
+
+    <!-- 특정 질문에 대한 모든 답변 조회 -->
+    <select id="getAnswersByQuestion" parameterType="int" resultType="com.center.entity.Answer">
+        SELECT * FROM answer WHERE qes_idx = #{qes_idx}
+    </select>
+
+</mapper>

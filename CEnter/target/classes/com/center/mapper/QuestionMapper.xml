@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.center.mapper.QuestionMapper">
+
+    <insert id="insertQuestion" parameterType="com.center.entity.Question">
+        INSERT INTO question (created_at, qes_content, qes_category, qes_item, qes_point)
+        VALUES (NOW(), #{qes_content}, #{qes_category}, #{qes_item}, #{qes_point})
+    </insert>
+
+    <select id="getAllQuestions" resultType="com.center.entity.Question">
+        SELECT * FROM question ORDER BY created_at DESC
+    </select>
+
+</mapper>
