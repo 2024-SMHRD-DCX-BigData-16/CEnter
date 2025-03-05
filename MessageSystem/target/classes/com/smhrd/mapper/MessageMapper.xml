@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.smhrd.mapper.MessageMapper">
+
+	<insert id="messageSend" parameterType="com.smhrd.entity.Message">
+	insert into message(sendE, receiveE,message) values(#{sendE},#{receiveE},#{message})
+	</insert>
+
+	<select id="messageList" parameterType="String" resultType="com.smhrd.entity.Message">
+		select * from message where receiveE =#{email}
+	
+	</select>
+
+</mapper>
