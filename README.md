@@ -6,3 +6,5 @@
 2. AI가 추천해준 예제를 풀이하고, 오답을 체크할 수 있음.
 3. 예제에 대한 풀이 또한 AI가 설명해주고 예제를 풀이할 수 있음.
 ㅁㄴㄹㅇㄴㅁㄹ
+![image](https://github.com/user-attachments/assets/d185f0a8-5d7e-4501-9f9e-7892ddf22af8)
+ㅁㄴㄻㄴㄹㄴㅁㄹ
