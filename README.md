@@ -19,8 +19,9 @@ openAI api를 활용한 코딩 학습 도우미
   ERD
 ![image](https://github.com/user-attachments/assets/a470e19e-68b0-4ab3-ab4c-9080e0847c1f)
 
-  사용언어
-![image](https://github.com/user-attachments/assets/6b82ce50-963d-4ff7-b657-63633ca0ab0d)
+  사용언어도구
+![image](https://github.com/user-attachments/assets/34172038-553e-4045-93df-6712955621fb)
+
 
 서비스흐름도
 ![image](https://github.com/user-attachments/assets/b54350ff-c8b5-49f0-ae2a-63e7d3c31bff)
@@ -33,7 +34,7 @@ openAI api를 활용한 코딩 학습 도우미
 ![image](https://github.com/user-attachments/assets/9be3ee96-b6d8-41f7-9c85-2e095192b1b3)
 
 기대효과!
-![image](https://github.com/user-attachments/assets/4b1a7369-78e0-4ed9-a506-c5afe715380e)
+
 
 
 결론 
