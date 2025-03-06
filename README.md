@@ -8,14 +8,14 @@ openAI api를 활용한 코딩 학습 도우미
 2. AI가 추천해준 예제를 풀이하고, 오답을 체크할 수 있음.
 3. 예제에 대한 풀이 또한 AI가 설명해주고 예제를 풀이할 수 있음.
 
-   시연페이퍼
-   ![image](https://github.com/user-attachments/assets/1d679ffc-2b29-4438-b761-dc25af1565a0)
+  
 
    
-![image](https://github.com/user-attachments/assets/d7929050-6184-4ed8-b644-6a7f4a64afa7)
+![image](https://github.com/user-attachments/assets/4ad5d348-bddb-44c8-93f7-4f1809cfa460)
 
-![image](https://github.com/user-attachments/assets/d185f0a8-5d7e-4501-9f9e-7892ddf22af8)
-![image](https://github.com/user-attachments/assets/fa375c81-c024-4479-9579-dfd123f89eb7)
+![image](https://github.com/user-attachments/assets/117997a4-ce86-4418-bfe4-e8f154514d98)
+![image](https://github.com/user-attachments/assets/a7c439e8-9d11-467d-9204-4872a832916f)
+
 
 ![image](https://github.com/user-attachments/assets/35f69258-d059-4fdd-a215-02f51f197fe5)
 ![image](https://github.com/user-attachments/assets/0fc7a8ab-6d63-4c1f-9889-99dedb27adfb)
