@@ -92,6 +92,9 @@ openAI api를 활용한 코딩 학습 도우미
 <br></br>
 팀 구성</br>
 팀장 : 이현건(PM, BACK-END)
+</br>
 팀원 : 박명훈(BACK-END, DB구현)
+</br>
 팀원 : 강래우(FRONT-END, CRAWLING)
+</br>
 팀원 : 차황현(FRONT-END, BACK-END)
