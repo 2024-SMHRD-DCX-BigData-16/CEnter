@@ -40,7 +40,7 @@ openAI api를 활용한 코딩 학습 도우미
 ![image](https://github.com/user-attachments/assets/7e90686f-b08b-4803-9d60-c6e572520d11)
 ![image](https://github.com/user-attachments/assets/9be3ee96-b6d8-41f7-9c85-2e095192b1b3)
 <br></br>
-기대효과
+• 기대효과
 <br></br>
 1️⃣ AI 기반 맞춤형 코딩 학습 제공
 </br>
@@ -60,7 +60,7 @@ openAI api를 활용한 코딩 학습 도우미
 </br>
 ✅ 학습 이력을 저장하여 지속적인 복습 및 개선 가능
 <br></br>
-향후 발전방향
+• 향후 발전방향
 <br></br>
 🔹 1. AI 학습 코치 기능 도입
 </br>
@@ -85,12 +85,12 @@ openAI api를 활용한 코딩 학습 도우미
 
 
 
-결론</br>
+• 결론</br>
 1. AI 기반 코딩 학습 서비스의 혁신적인 발전 가능성
 2. 자기 주도적  학습 환경 조성
 3. 글로벌 IT 시장의 무한한 성장 가능성을 활용한 경쟁력 확보
 
-팀 구성
+• 팀 구성
 </br>
 팀장 : 이현건(PM, BACK-END)
 </br>
