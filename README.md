@@ -85,13 +85,14 @@ openAI api를 활용한 코딩 학습 도우미
 
 
 
-결론
-<br></br>
+결론</br>
 1. AI 기반 코딩 학습 서비스의 혁신적인 발전 가능성
 2. 자기 주도적  학습 환경 조성
 3. 글로벌 IT 시장의 무한한 성장 가능성을 활용한 경쟁력 확보
 <br></br>
-   팀장 : 이현건(PM, BACK-END)
-   팀원 : 박명훈(BACK-END, DB구현)
-   팀원 : 강래우(FRONT-END, CRAWLING)
-   팀원 : 차황현(FRONT-END, BACK-END)
+팀 구성
+</br>
+팀장 : 이현건(PM, BACK-END)
+팀원 : 박명훈(BACK-END, DB구현)
+팀원 : 강래우(FRONT-END, CRAWLING)
+팀원 : 차황현(FRONT-END, BACK-END)
