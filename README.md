@@ -9,7 +9,7 @@ openAI api를 활용한 코딩 학습 도우미
 3. 예제에 대한 풀이 또한 AI가 설명해주고 예제를 풀이할 수 있음.
    
 ![image](https://github.com/user-attachments/assets/d7929050-6184-4ed8-b644-6a7f4a64afa7)
-1) UML 다이어그램
+
 ![image](https://github.com/user-attachments/assets/d185f0a8-5d7e-4501-9f9e-7892ddf22af8)
 ![image](https://github.com/user-attachments/assets/fa375c81-c024-4479-9579-dfd123f89eb7)
-2) 기능 요구사항 정의서
+
