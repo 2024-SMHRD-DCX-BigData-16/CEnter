@@ -91,7 +91,6 @@ openAI api를 활용한 코딩 학습 도우미
 3. 글로벌 IT 시장의 무한한 성장 가능성을 활용한 경쟁력 확보
 <br></br>
 팀 구성
-</br>
 팀장 : 이현건(PM, BACK-END)
 팀원 : 박명훈(BACK-END, DB구현)
 팀원 : 강래우(FRONT-END, CRAWLING)
