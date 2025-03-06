@@ -1,7 +1,7 @@
 # CEnter
 openAI api를 활용한 코딩 학습 도우미
 <br></br>
-서비스 소개
+• 서비스 소개
 서비스명 : CEnter(AI융합 코딩 학습 가이드)
 <br></br>
 서비스 설명 :
