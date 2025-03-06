@@ -10,16 +10,16 @@ openAI api를 활용한 코딩 학습 도우미
 
   
 
-   
+   UML 다이어그램
 ![image](https://github.com/user-attachments/assets/4ad5d348-bddb-44c8-93f7-4f1809cfa460)
-
+  기능 요구사항분석서
 ![image](https://github.com/user-attachments/assets/117997a4-ce86-4418-bfe4-e8f154514d98)
 ![image](https://github.com/user-attachments/assets/a7c439e8-9d11-467d-9204-4872a832916f)
 
+  ERD
+![image](https://github.com/user-attachments/assets/a470e19e-68b0-4ab3-ab4c-9080e0847c1f)
 
-![image](https://github.com/user-attachments/assets/35f69258-d059-4fdd-a215-02f51f197fe5)
-![image](https://github.com/user-attachments/assets/0fc7a8ab-6d63-4c1f-9889-99dedb27adfb)
-
+  사용언어
 ![image](https://github.com/user-attachments/assets/6b82ce50-963d-4ff7-b657-63633ca0ab0d)
 
 서비스흐름도
